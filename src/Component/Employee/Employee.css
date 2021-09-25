@@ -1,0 +1,51 @@
+.info{
+    text-align: left;
+    padding: 10px 5px;
+}
+
+.employee {
+    background-color: aqua;
+}
+
+.img-box {
+    text-align: center;
+    padding-top: 20px;
+}
+.employee-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.hire-btn-area {
+    text-align: center;
+    margin: 20px;
+}
+.hire-btn {
+    background-color: #6047EC;
+    color: #fff;
+    padding: 4px 10px;
+    border: 1px solid aquamarine;
+    border-radius: 3px;
+}
+
+.social-icon {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(226, 3, 152);
+}
+
+.iconia-f {
+    margin-left: 10px;
+    color: #4B69B1;
+}
+
+.iconia-t {
+    margin-left: 10px;
+    color: #37B1E2;
+}
+
+.iconia-l {
+    margin-left: 10px;
+    color: #0678B6;
+}

@@ -1,0 +1,11 @@
+.body {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.div-one {
+  background-color: rgb(235, 233, 233);
+}
+
+.div-two {
+  background-color: rgb(201, 201, 253);
+}

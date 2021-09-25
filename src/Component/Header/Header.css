@@ -1,0 +1,13 @@
+.header {
+    background-color: #6047EC;
+    border-radius: 10px ;
+    padding: 20px;
+}
+
+.header h3{
+    color: antiquewhite;
+}
+.header p{
+    font-size: 20px;
+    color: rgb(177, 176, 176);
+}
