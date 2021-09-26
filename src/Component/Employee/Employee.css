@@ -3,8 +3,12 @@
     padding: 10px 5px;
 }
 
+.info p {
+    font-size: 17px;
+    font-weight: 500;
+}
 .employee {
-    background-color: aqua;
+    background-color: aquamarine;
 }
 
 .img-box {
@@ -22,13 +26,17 @@
     margin: 20px;
 }
 .hire-btn {
-    background-color: #6047EC;
+    background-color: #FF287C;
     color: #fff;
-    padding: 4px 10px;
+    padding: 4px 15px;
     border: 1px solid aquamarine;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 
+.hire-btn:focus {
+    background-color: #fff;
+    color: #FF287C;
+}
 .social-icon {
     text-align: center;
     font-size: 30px;
