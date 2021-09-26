@@ -2,14 +2,30 @@ import React from "react";
 import "./Employee.css";
 
 const Employee = (props) => {
-  const hireMethod = props.hireMethod;
+  const hireMethod = props.hireMethod; // Recivied button function
   const employee = props.employee;
-  const {name, gender, age, phone, salary, image, experience} = employee;
+  const { name, gender, age, phone, salary, image, experience } = employee;
+
+  // Return Employee component
   return (
     <div className='g-2 col'>
       <div className='card employee'>
         <div className='img-box'>
           <img className='employee-img' src={image} alt='' />
+        </div>
+        <div className='social-icon'>
+          <a href='/facebook'>
+            <i className='fab fa-facebook iconia-f'></i>
+          </a>
+          <a href='/instagram'>
+            <i className='fab fa-instagram iconia-i'></i>
+          </a>
+          <a href='/twitter'>
+            <i className='fab fa-twitter iconia-t'></i>
+          </a>
+          <a href='/lienkedin'>
+            <i className='fab fa-linkedin-in iconia-l'></i>
+          </a>
         </div>
         <div className='info'>
           <p>Name: {name}</p>
@@ -22,11 +38,6 @@ const Employee = (props) => {
             <button onClick={() => hireMethod(employee)} className='hire-btn'>
               <i className='fab fa-hire-a-helper'></i> Hire Me
             </button>
-          </div>
-          <div className='social-icon'>
-            <a href="/facebook"><i className='fab fa-facebook iconia-f'></i></a>
-            <a href="/twitter"><i className='fab fa-twitter iconia-t'></i></a>
-            <a href="/lienkedin"><i className='fab fa-linkedin-in iconia-l'></i></a>
           </div>
         </div>
       </div>

@@ -1,64 +1,74 @@
-.info{
-    text-align: left;
-    padding: 10px;
-    padding-top: 30px;
+/* Design employee card and information*/
+.info {
+  text-align: left;
+  padding: 10px;
+  padding-top: 15px;
 }
 
 .info p {
-    font-size: 17px;
-    font-weight: 500;
+  font-size: 17px;
+  font-weight: 500;
 }
 .employee {
-    background-color: rgb(166, 255, 213);
+  background-color: rgb(166, 255, 213);
 }
 
 .employee:hover {
-    background-color: rgb(81, 255, 188);
+  background-color: rgb(81, 255, 188);
 }
 
 .img-box {
-    text-align: center;
-    padding-top: 20px;
+  text-align: center;
+  padding-top: 10px;
 }
 .employee-img {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
 }
 
+/* Design hired button */
 .hire-btn-area {
-    text-align: center;
-    margin: 20px;
+  text-align: center;
+  margin-top: 10px;
+  padding: 5px;
 }
 .hire-btn {
-    background-color: #FF287C;
-    color: #fff;
-    padding: 4px 15px;
-    border: 1px solid aquamarine;
-    border-radius: 5px;
+  background-color: #ff287c;
+  color: #fff;
+  padding: 4px 15px;
+  border: 1px solid aquamarine;
+  border-radius: 5px;
 }
 
 .hire-btn:focus {
-    background-color: #fff;
-    color: #FF287C;
+  background-color: #fff;
+  color: #ff287c;
 }
+
+/* Design all social buttons */
 .social-icon {
-    text-align: center;
-    font-size: 30px;
-    color: rgb(226, 3, 152);
+  text-align: center;
+  padding-top: 20px;
+  font-size: 28px;
+  color: rgb(226, 3, 152);
 }
 
 .iconia-f {
-    margin-left: 10px;
-    color: #4B69B1;
+  margin-left: 10px;
+  color: #4b69b1;
+}
+.iconia-i {
+  margin-left: 10px;
+  color: #EF4C4E;
 }
 
 .iconia-t {
-    margin-left: 10px;
-    color: #37B1E2;
+  margin-left: 10px;
+  color: #37b1e2;
 }
 
 .iconia-l {
-    margin-left: 10px;
-    color: #0678B6;
+  margin-left: 10px;
+  color: #0678b6;
 }

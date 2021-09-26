@@ -1,6 +1,14 @@
-.employ-total {
-    margin-top: 30px;
-    color: gold;
-    font-size: 22px;
-    font-weight: bold;
+/* Design hired card */
+.card-info {
+    margin: 30px 0px 20px 20px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.card-info p { 
+    text-align: left;
+    color: #FF287C;
+    font-size: 20px;
+    font-weight: 600;
 }

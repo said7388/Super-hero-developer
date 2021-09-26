@@ -22,7 +22,6 @@ const Body = () => {
     
   };
 
-  // console.log(hirePerson);
   // Return Body data
   return (
     <div className='body'>
