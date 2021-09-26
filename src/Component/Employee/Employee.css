@@ -1,6 +1,7 @@
 .info{
     text-align: left;
-    padding: 10px 5px;
+    padding: 10px;
+    padding-top: 30px;
 }
 
 .info p {
@@ -8,7 +9,11 @@
     font-weight: 500;
 }
 .employee {
-    background-color: aquamarine;
+    background-color: rgb(166, 255, 213);
+}
+
+.employee:hover {
+    background-color: rgb(81, 255, 188);
 }
 
 .img-box {

@@ -8,7 +8,7 @@ const Salarycart = (props) => {
   const salaryCost = hiredPersons.reduce((prev, cur) => cur.salary + prev ,0)
 
   return (
-    <div>
+    <div className="hired-card">
       <p className='employ-total'>
         <i class='fas fa-user'></i> Developers Hired: {totalEmploy}
       </p>
