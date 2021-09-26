@@ -1,7 +1,7 @@
 [
   {
     "id": "614f7241fe86ed248dfc892a",
-    "salary": "$3,138",
+    "salary": 5000,
     "image": "https://randomname.de/images/twitter_enjoythetau.jpg",
     "age": 38,
     "name": "Meyers Spence",
@@ -12,7 +12,7 @@
   },
   {
     "id": "614f7241213a2c0158fea7ec",
-    "salary": "$1,618",
+    "salary": 2300,
     "image": "https://randomname.de/images/twitter_bhargavik.jpg",
     "age": 24,
     "name": "Evangeline Matthews",
@@ -23,7 +23,7 @@
   },
   {
     "id": "614f7241320f98434c932399",
-    "salary": "$2,208",
+    "salary": 2000,
     "image": "https://randomname.de/images/twitter_vitorfelixs.jpg",
     "age": 21,
     "name": "Valentine Heath",
@@ -34,7 +34,7 @@
   },
   {
     "id": "614f72411d47e7a75c10f730",
-    "salary": "$3,299",
+    "salary": 3200,
     "image": "https://randomname.de/images/twitter_kiandavoodi.jpg",
     "age": 29,
     "name": "Small Sykes",
@@ -45,7 +45,7 @@
   },
   {
     "id": "614f7241cafbee828d1f3e53",
-    "salary": "$2,279",
+    "salary": 3300,
     "image": "https://randomname.de/images/twitter_odeskfreelancer.jpg",
     "age": 32,
     "name": "Hardy Singleton",
@@ -56,7 +56,7 @@
   },
   {
     "id": "614f7241de80a23169344860",
-    "salary": "$2,061",
+    "salary": 3100,
     "image": "https://randomname.de/images/twitter_katiefritz.jpg",
     "age": 28,
     "name": "Castaneda Deleon",
@@ -67,7 +67,7 @@
   },
   {
     "id": "614f72411f4f3a0ed9e1af03",
-    "salary": "$2,048",
+    "salary": 1900,
     "image": "https://randomname.de/images/twitter_mariamovan.jpg",
     "age": 21,
     "name": "Clayton Rosa",
@@ -78,7 +78,7 @@
   },
   {
     "id": "614f72419e338631c659b7eb",
-    "salary": "$1,650",
+    "salary": 4300,
     "image": "https://randomname.de/images/twitter_yoelzea.jpg",
     "age": 35,
     "name": "Jackson Lotta",
@@ -89,7 +89,7 @@
   },
   {
     "id": "614f7241f759059f5493495e",
-    "salary": "$2,193",
+    "salary": 4200,
     "image": "https://randomname.de/images/twitter_kwastell.jpg",
     "age": 37,
     "name": "Little Merritt",
@@ -100,7 +100,7 @@
   },
   {
     "id": "614f7241c75f3825eecb5f1c",
-    "salary": "$1,576",
+    "salary": 3150,
     "image": "https://randomname.de/images/twitter_ashtonsnook.jpg",
     "age": 29,
     "name": "Cunningham Lyons",
@@ -111,7 +111,7 @@
   },
   {
     "id": "614f72415a56fe4dada81656",
-    "salary": "$3,705",
+    "salary": 2500,
     "image": "https://randomname.de/images/twitter_sam_potts.jpg",
     "age": 25,
     "name": "Kara Marks",
@@ -122,7 +122,7 @@
   },
   {
     "id": "614f724165bf2f02ac58122c",
-    "salary": "$3,159",
+    "salary": 3100,
     "image": "https://randomname.de/images/twitter_nskupova.jpg",
     "age": 31,
     "name": "Roseann Peterson",
@@ -133,7 +133,7 @@
   },
   {
     "id": "614f72417dcf539d74369b49",
-    "salary": "$3,644",
+    "salary": 3085,
     "image": "https://randomname.de/images/twitter_katiefritz.jpg",
     "age": 31,
     "name": "Jeannette Finley",
@@ -144,7 +144,7 @@
   },
   {
     "id": "614f72413d1133127c46a360",
-    "salary": "$1,473",
+    "salary": 2000,
     "image": "https://randomname.de/images/twitter_eugeneeweb.jpg",
     "age": 21,
     "name": "Riddle Gibbs",
@@ -155,7 +155,7 @@
   },
   {
     "id": "614f72413d11334327c46a360",
-    "salary": "$1,473",
+    "salary": 1800,
     "image": "https://randomname.de/images/twitter_springfels.jpg",
     "age": 21,
     "name": "Mariana",

@@ -1,0 +1,24 @@
+.hired {
+  background-color: gold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin-bottom: 10px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.hired-gap{
+    height: 60px;
+}
+.hired img {
+    width: 50px;
+    height: 50px;
+}
+
+.hired-name {
+    float: left;
+    text-align: justify;
+    padding-right: 10px;
+}

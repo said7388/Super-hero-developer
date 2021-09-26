@@ -15,7 +15,8 @@ const Body = () => {
 
   // Create Hire button function
   const hireMethod = (person) => {
-    setHirePerson(person);
+    const newhired = [...hirePerson, person];
+    setHirePerson(newhired);
   };
 
   // console.log(hirePerson);

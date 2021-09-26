@@ -17,7 +17,7 @@ const Employee = (props) => {
           <p>Age: {age}</p>
           <p>Phone: {phone}</p>
           <p>Experience: {experience}</p>
-          <p>Salary: {salary}</p>
+          <p>Salary: ${salary}</p>
           <div className='hire-btn-area'>
             <button onClick={() => hireMethod(employee)} className='hire-btn'>
               <i className='fab fa-hire-a-helper'></i> Hire Me
