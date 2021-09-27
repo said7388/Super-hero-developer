@@ -6,7 +6,7 @@ const Employee = (props) => {
   const employee = props.employee;
   const { name, gender, age, phone, salary, image, experience } = employee;
 
-  // Return Employee component
+  // Return Employee component here
   return (
     <div className='g-2 col'>
       <div className='card employee'>
